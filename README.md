@@ -4,4 +4,4 @@ The aim of the project is to detect an anomaly in the call center of the municip
 
 This project was carried out with Ayşenur Erbahar, Ezgi Karakuş and Gizem Dağdeviren, which is collaboration with Istanbul Metropolitan Municipality.
 
-https://user-images.githubusercontent.com/55879188/112756850-96822780-8fef-11eb-85a4-9f7ec8cc6321.png
+
